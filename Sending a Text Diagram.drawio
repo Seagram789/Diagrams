@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T10:10:00.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="e5tlyHM3UNVOn9dVD91s" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T10:48:24.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gPVn9CaKoR23VnDVK95e" version="22.1.11" type="github">
   <diagram name="Page-1" id="mzislfx1cmDzrygxQ82Q">
-    <mxGraphModel>
+    <mxGraphModel dx="464" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=1;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="153.85" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#FFFFFF;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;direction=east;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="165" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=1;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="80" width="153.85" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Custom_IP_Prefix.svg;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="120" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Directories and services on the internet send those packets of data to the right IP addresses.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="474.04" y="420" width="121.92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Send to internet&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="40" width="162.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Send to IP addresses&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="40" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Send to MAC address&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;The cell tower sends the data to the internet.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="221.54" y="410" width="121.92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;When you send a text message from your phone to your friend’s phone, the data is sent to your private router (or to a cell tower) by your service provider.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35.96" y="450" width="121.92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;The message gets to your friend’s phone, which has a unique MAC address.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="685.96" y="420" width="121.92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Send from phone&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="29.92" y="40" width="160.08" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-20" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="60.96" y="210.22" width="71.92" height="39.56" as="geometry" />
+        </mxCell>
+        <mxCell id="tWjZGpyK9QyHuGctLyZU-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="696.9200000000001" y="195" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
