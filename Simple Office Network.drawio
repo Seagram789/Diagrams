@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T22:53:52.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="JSnJlTKk-klumv_TauJL" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T23:20:15.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mP8RkT3NDZuFP0v0sfUs" version="22.1.11" type="github">
   <diagram name="Page-1" id="a30XDtn3HpsKUx8J5MNB">
-    <mxGraphModel>
+    <mxGraphModel dx="1430" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KMAKusAWHShF_S-tNMAG-1" value="Internet" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="70" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-2" value="Modem" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-5" value="Router" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
+          <mxGeometry x="260" y="225" width="100" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-8" value="Printer" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.printer;" vertex="1" parent="1">
+          <mxGeometry x="270" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-12" value="Laptop" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="413" y="200.61" width="100.94" height="102.39" as="geometry" />
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-13" value="Server" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack.svg;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="425" y="320" width="58.2" height="117.98" as="geometry" />
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-14" value="Tablet" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tablet_ipad;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="370" y="410" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-16" value="Desktop" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="359" y="109" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-17" value="Phone" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="330" y="450" width="18" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="265" as="sourcePoint" />
+            <mxPoint x="60" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="220" as="sourcePoint" />
+            <mxPoint x="300" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="290" as="sourcePoint" />
+            <mxPoint x="190" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" target="KMAKusAWHShF_S-tNMAG-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="220" as="sourcePoint" />
+            <mxPoint x="310" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="303.5" as="sourcePoint" />
+            <mxPoint x="410" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="340" as="sourcePoint" />
+            <mxPoint x="340" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMAKusAWHShF_S-tNMAG-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="KMAKusAWHShF_S-tNMAG-5" target="KMAKusAWHShF_S-tNMAG-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="273.5" as="sourcePoint" />
+            <mxPoint x="420" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
