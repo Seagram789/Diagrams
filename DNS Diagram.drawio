@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T16:45:31.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="2Y9K40p5HE7l8rLio0v1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T17:15:52.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QJ9kcnhhW386ldYm7eQS" version="22.1.11" type="github">
   <diagram name="Page-1" id="-ILeXOQU-OKvWDAU1f5C">
-    <mxGraphModel>
+    <mxGraphModel dx="648" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nrF042i2dVPsNP8v9z2J-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="76" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nrF042i2dVPsNP8v9z2J-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_farm" vertex="1" parent="1">
+          <mxGeometry x="440" y="194" width="156.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nrF042i2dVPsNP8v9z2J-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/DNS.svg;" vertex="1" parent="1">
+          <mxGeometry x="274" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nrF042i2dVPsNP8v9z2J-4" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="180" height="108" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
